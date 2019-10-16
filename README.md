@@ -7,11 +7,11 @@ Proposed Hacking
 
 This project aims to characterize the Gulf Stream in CMIP6 scenarios of transient CO2 emissions. Analyses carried out within this project will aim to explore the following potential questions:
 
-  Where does the Gulf Stream separate from the US coast in CMIP6 models? Coarse-resolution models (e.g. 1deg) are known to have a warm bias in the northwest Atlantic shelf, since the Gulf Stream separates too far north of Cape Hatteras (Saba et al. 2015). Assessing this potential bias in control simulations will help us interpret potential changes in the Gulf Stream in transient CO2 emission scenarios.
+  + Where does the Gulf Stream separate from the US coast in CMIP6 models? Coarse-resolution models (e.g. 1deg) are known to have a warm bias in the northwest Atlantic shelf, since the Gulf Stream separates too far north of Cape Hatteras (Saba et al. 2015). Assessing this potential bias in control simulations will help us interpret potential changes in the Gulf Stream in transient CO2 emission scenarios.
 
-  Will the Gulf Stream strength also change in a changing climate? Does its stability increase with ocean warming? If, so, would this have an impact on the cross-front transport of nutrients?
+  + Will the Gulf Stream strength also change in a changing climate? Does its stability increase with ocean warming? If, so, would this have an impact on the cross-front transport of nutrients?
 
-  Is an ocean-atmosphere coupled model necessary to simulate a poleward shift of the Gulf Stream? In other words, do ocean-atmosphere feedbacks play a role on determining long-term shifts in the Gulf Stream position and/or strength?
+  + Is an ocean-atmosphere coupled model necessary to simulate a poleward shift of the Gulf Stream? In other words, do ocean-atmosphere feedbacks play a role on determining long-term shifts in the Gulf Stream position and/or strength?
 
 ### Anticipated Data Needs
 
