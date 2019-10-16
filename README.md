@@ -1,4 +1,4 @@
-#Scientific Motivation
+### Scientific Motivation
 
 The Gulf Stream is a western boundary current that transports heat, salt, and oxygen-poor, nutrient-rich waters poleward. As the northward flowing upper limb of the Atlantic Meridional Overturning Circulation (AMOC), it plays a major role in climate variability (e.g. Palter 2015). Additionally, it influences sea level in the mid-Atlantic coast (Ezer et al. 2017) and also North Atlantic biogeochemistry. For example, the Gulf Stream drives uptake of atmospheric CO2 as subtropical waters cool along its path (Takahashi et al. 2002), supplies nutrients to the oligotrophic gyres via cross-front transport (Yamamoto et al. 2018), and affects the oxygen inventory (Tagklis et al. 2017). Therefore, understanding how the Gulf Stream will evolve in a warming ocean is crucial to predict the evolution of the climate, ocean circulation, and ocean biogeochemistry in the Atlantic Ocean.
 
@@ -13,15 +13,15 @@ This project aims to characterize the Gulf Stream in CMIP6 scenarios of transien
 
     Is an ocean-atmosphere coupled model necessary to simulate a poleward shift of the Gulf Stream? In other words, do ocean-atmosphere feedbacks play a role on determining long-term shifts in the Gulf Stream position and/or strength?
 
-#Anticipated Data Needs
+### Anticipated Data Needs
 
 Sea level height, potential temperature, salinity, and oxygen for transient CO2 emission scenarios. Models with an ocean resolution of ¼ deg or higher.
 
-#Anticipated Software Tools
+### Anticipated Software Tools
 
 Fairly new to python so any suggestion is very welcome.
 
-#Desired Collaborators
+### Desired Collaborators
 
 Curious and motivated minds.
 
